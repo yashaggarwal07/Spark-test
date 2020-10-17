@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: purple;
+  height: 100vh;
+} 
+.app_body{
+display: flex;
+
+}
+.Header{
+  display: flex;
+  background-color: #ededed;
+  height: 10vh;
+}

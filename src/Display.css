@@ -1,0 +1,11 @@
+.display{
+    display: flex;
+    flex-direction: column;
+    flex: 0.50;
+    background-color: white;
+    height: 60vh;
+    width: 20vh;
+    margin-top: 15vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}

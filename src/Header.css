@@ -1,0 +1,31 @@
+.headers{
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-between;
+    flex: 1;
+}
+.app_Header{
+display: flex;
+flex-direction: row;
+text-align: center;
+
+}
+.app_HeaderRight{
+    display: flex;
+flex-direction: row;
+
+}
+.app_HeaderRight > label{
+  display: flex;
+  flex-direction: row;
+justify-content: space-between;
+flex: 1;
+padding: 10px;
+
+}
+.app_Header > h2{
+    font-weight: 500;
+    color: violet;
+    margin-left: 100px;
+
+}
